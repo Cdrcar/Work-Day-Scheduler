@@ -34,9 +34,11 @@ THEN the saved events persist
 
 ## Link to Work Scheduler Calendar
 
+[Work Scheduler Calendar](https://cdrcar.github.io/challenge05-Work-Day-Scheduler/)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Mentions
-This calendar was built with the help of 
+This calendar was built with the help of Daniel from AskBCS.
