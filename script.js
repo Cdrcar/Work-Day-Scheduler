@@ -9,7 +9,7 @@ $('#currentDay').text(currentDate);
 //listener for click events on the save button
 $(".saveBtn").on("click", function(){
   var time = $(this).parent().attr("id");
-  var text = $(this).siblings("description").val();
+  var text = $(this).siblings(".description").val();
 
 //Save user input to local storage
 localStorage.setItem(time,text);
